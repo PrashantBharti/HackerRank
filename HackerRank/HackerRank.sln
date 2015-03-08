@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PathInMaze", "PathInMaze\PathInMaze.vcxproj", "{630802AF-C42D-44C7-952B-D15DA3A4BE7F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TreeDifference", "TreeDifference\TreeDifference.vcxproj", "{DBAB959B-6A46-4047-B0AA-68394ABE26BE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -13,6 +15,10 @@ Global
 		{630802AF-C42D-44C7-952B-D15DA3A4BE7F}.Debug|Win32.Build.0 = Debug|Win32
 		{630802AF-C42D-44C7-952B-D15DA3A4BE7F}.Release|Win32.ActiveCfg = Release|Win32
 		{630802AF-C42D-44C7-952B-D15DA3A4BE7F}.Release|Win32.Build.0 = Release|Win32
+		{DBAB959B-6A46-4047-B0AA-68394ABE26BE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DBAB959B-6A46-4047-B0AA-68394ABE26BE}.Debug|Win32.Build.0 = Debug|Win32
+		{DBAB959B-6A46-4047-B0AA-68394ABE26BE}.Release|Win32.ActiveCfg = Release|Win32
+		{DBAB959B-6A46-4047-B0AA-68394ABE26BE}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
